@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farewell GitHub, Hello Immersive Computing
+title: Class 01 - Syllabus
 ---
 
 {{ page.title }}
