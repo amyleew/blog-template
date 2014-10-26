@@ -17,4 +17,4 @@ networking, and mobile devices in its impact. While the timing is more abrupt
 than I had intended, with everything that's happened, I think now is the right
 time to do this, and I'd like to explain why.
 
-![]({{ site.url }}/images/IMG_4904.JPG)
+![]({{ site.url }}/blog-template/images/IMG_4904.JPG)
