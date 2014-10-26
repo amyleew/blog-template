@@ -18,3 +18,8 @@ than I had intended, with everything that's happened, I think now is the right
 time to do this, and I'd like to explain why.
 
 ![]({{ site.url }}/blog-template/images/IMG_4904.JPG)
+![]({{ site.url }}/blog-template/images/IMG_4906.JPG)
+![]({{ site.url }}/blog-template/images/IMG_4913.JPG)
+![]({{ site.url }}/blog-template/images/IMG_4914.JPG)
+![]({{ site.url }}/blog-template/images/IMG_4916.JPG)
+![]({{ site.url }}/blog-template/images/IMG_4920.JPG)
