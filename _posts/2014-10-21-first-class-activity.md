@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Class 01 Mapping Activity
+title: Mapping Activity
 ---
 
 {{ page.title }}
